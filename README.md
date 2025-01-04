@@ -47,8 +47,6 @@ The Hospital Management System is designed to streamline the operations of a hos
     ```
 5. Create a pull request.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact [your email](mailto:youremail@example.com).
+For any inquiries, please contact [meliash198@gmail.com](mailto:meliash198@gmail.com).
