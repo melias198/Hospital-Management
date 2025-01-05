@@ -2,7 +2,7 @@
 
 ## Overview
 The Hospital Management System is designed to streamline the operations of a hospital. It helps in managing patient information, staff details, appointments, and billing.
-
+ 
 ## Features
 - **Patient Management**: Register and manage patient details.
 - **Staff Management**: Manage hospital staff information.
