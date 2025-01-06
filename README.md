@@ -6,7 +6,7 @@ The Hospital Management System is designed to streamline the operations of a hos
 ## Features
 - **Patient Management**: Register and manage patient details.
 - **Staff Management**: Manage hospital staff information.
-- **Appointment Scheduling**: Schedule and manage patient appointments.
+- **Appointment Scheduling**: Schedule and manage patient appointments.  
 - **Billing System**: Generate and manage bills for patients.
 - **Reports**: Generate various reports for analysis.
 
